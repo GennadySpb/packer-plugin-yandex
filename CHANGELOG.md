@@ -1,4 +1,4 @@
-Please see plugin [Releases](https://github.com/hashicorp/packer-plugin- yandex/releases) for the latest CHANGELOG information.
+Please see plugin [Releases](https://github.com/hashicorp/packer-plugin-yandex/releases) for the latest CHANGELOG information.
 
 ## 1.0.2 (September 2, 2021)
 
