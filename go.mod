@@ -3,7 +3,7 @@ module github.com/hashicorp/packer-plugin-yandex
 go 1.16
 
 require (
-	github.com/aws/aws-sdk-go v1.38.0
+	github.com/aws/aws-sdk-go v1.43.30
 	github.com/c2h5oh/datasize v0.0.0-20200825124411-48ed595a09d2
 	github.com/go-resty/resty/v2 v2.6.0
 	github.com/google/uuid v1.1.2
@@ -16,5 +16,5 @@ require (
 	github.com/yandex-cloud/go-sdk v0.0.0-20210413100926-1c3eb10c58d7
 	github.com/zclconf/go-cty v1.8.3
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	google.golang.org/grpc v1.32.0
+	google.golang.org/grpc v1.45.0
 )
