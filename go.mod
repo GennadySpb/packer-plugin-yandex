@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.43.30
 	github.com/c2h5oh/datasize v0.0.0-20200825124411-48ed595a09d2
 	github.com/go-resty/resty/v2 v2.6.0
-	github.com/google/uuid v1.1.2
+	github.com/google/uuid v1.3.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/hashicorp/hcl/v2 v2.10.0
 	github.com/hashicorp/packer v1.7.2
