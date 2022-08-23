@@ -14,7 +14,7 @@ require (
 	github.com/stretchr/testify v1.8.0
 	github.com/yandex-cloud/go-genproto v0.0.0-20210419102011-ea71516bb3f7
 	github.com/yandex-cloud/go-sdk v0.0.0-20210413100926-1c3eb10c58d7
-	github.com/zclconf/go-cty v1.8.3
+	github.com/zclconf/go-cty v1.11.0
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	google.golang.org/grpc v1.45.0
 )
