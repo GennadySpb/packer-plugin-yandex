@@ -16,5 +16,5 @@ require (
 	github.com/yandex-cloud/go-sdk v0.0.0-20210413100926-1c3eb10c58d7
 	github.com/zclconf/go-cty v1.8.3
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	google.golang.org/grpc v1.45.0
+	google.golang.org/grpc v1.50.0
 )
