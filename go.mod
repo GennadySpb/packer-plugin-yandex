@@ -7,7 +7,7 @@ require (
 	github.com/c2h5oh/datasize v0.0.0-20200825124411-48ed595a09d2
 	github.com/go-resty/resty/v2 v2.6.0
 	github.com/google/uuid v1.1.2
-	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
+	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/hashicorp/hcl/v2 v2.10.0
 	github.com/hashicorp/packer v1.7.2
 	github.com/hashicorp/packer-plugin-sdk v0.2.3
